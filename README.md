@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [Your Name]
-### Junior SOC Analyst | Cybersecurity Enthusiast | Freelance Security Consultant
+# 👋 Hi, I'm [Abubakar]
+### Junior SOC Analyst 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR-PROFILE)
