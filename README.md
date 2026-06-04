@@ -1,11 +1,13 @@
-# 👋 Hi, I'm [Abubakar]
-### Junior SOC Analyst 
 
+<h1> 👋 Hi, I'm Abubakar <h1>
+<div align="center">  
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/YOUR-PROFILE)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-PROFILE)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR-USERNAME)
+</div>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -31,17 +33,14 @@ ___
 ### 🔍 [Project 1 Name — e.g., Phishing Detection Lab]
 > *[One-line description of what the project does and why it matters]*
 
-- **What I built:** [Brief summary — e.g., "A simulated SOC environment using Splunk to detect phishing email IOCs"]
 - **Tools used:** Splunk, Python, MITRE ATT&CK T1566
 - **Key outcome:** [e.g., "Detected 95% of simulated phishing events with under 5-minute MTTD"]
-- 📄 [Read the full write-up →](./projects/project-1/README.md)
-
+  
 ---
 
 ### 🔍 [Project 2 Name — e.g., Network Intrusion Analysis]
 > *[One-line description]*
 
-- **What I built:** [Brief summary]
 - **Tools used:** Wireshark, Zeek, Snort
 - **Key outcome:** [Measurable result or learning]
 - 📄 [Read the full write-up →](./projects/project-2/README.md)
