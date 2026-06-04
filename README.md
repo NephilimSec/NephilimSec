@@ -9,19 +9,17 @@
 </div>
 
 
-## 🧑‍💻 About Me
+##  About Me
 
-I'm a junior cybersecurity analyst specializing in **Security Operations Center (SOC)** work, threat detection, log analysis, and incident response. I help small businesses and startups protect their digital assets without the cost of a full-time security team.
+I'm a junior cybersecurity SOC analyst specializing in threat detection, log analysis, SOC Automation and incident response. I help business Enterprises and startups protect their digital assets.
 ___
 
-## 🛡️ Core Skills
+##  Core Skills
 
 | Area | Tools & Technologies |
 |---|---|
 | **SIEM & Log Analysis** | Splunk, Microsoft Sentinel, Wazuh, Limacharlie |
 | **Threat Detection** | Snort, Suricata, |
-| **Endpoint Security** | CrowdStrike, Microsoft Defender, Wazuh |
-| **Network Analysis** | Wireshark, Zeek, Nmap |
 | **Threat Intel** | MITRE ATTT&CK, VirusTotal, OSINT |
 | **SOAR Orchestration** | shuffle, Tines |
 | **Operating Systems** | Windows , Kali Linux, Ubuntu |
@@ -30,30 +28,6 @@ ___
 
 ## Projects
 
-### 🔍 [Project 1 Name — e.g., Phishing Detection Lab]
-> *[One-line description of what the project does and why it matters]*
+- [Detection Analysis Home Lab](./projects/project-1/) 
 
-- **Tools used:** Splunk, Python, MITRE ATT&CK T1566
-- **Key outcome:** [e.g., "Detected 95% of simulated phishing events with under 5-minute MTTD"]
-  
----
-
-### 🔍 [Project 2 Name — e.g., Network Intrusion Analysis]
-> *[One-line description]*
-
-- **Tools used:** Wireshark, Zeek, Snort
-- **Key outcome:** [Measurable result or learning]
-- 📄 [Read the full write-up →](./projects/project-2/README.md)
-
----
-
-### 🔍 [Project 3 Name — e.g., Malware Analysis Report]
-> *[One-line description]*
-
-- **What I built:** [Brief summary]
-- **Tools used:** Any.run, Hybrid Analysis, YARA
-- **Key outcome:** [Result or learning]
-- 📄 [Read the full write-up →](./projects/project-3/README.md)
-
-
--->
+ 
