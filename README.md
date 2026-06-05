@@ -28,6 +28,6 @@ ___
 
 ## Projects
 
-- [Detection Analysis Home Lab](./projects/project-1/) 
+- [Detection Analysis Home Lab](https://github.com/NephilimSec/Endpoint-Detection-Analysis) 
 
  
