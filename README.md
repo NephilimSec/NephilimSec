@@ -30,4 +30,5 @@ ___
 
 - [Detection Analysis Home Lab](https://github.com/NephilimSec/Endpoint-Detection-Analysis) 
 
+- [Dual Stack SOAR EDR](https://github.com/NephilimSec/DUAL-STACK-SOAR-EDR-HOME-LAB/tree/main)
  
